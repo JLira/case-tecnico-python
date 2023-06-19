@@ -1,1 +1,1 @@
-ponha nesta pata o aquivo de teste, base_teste.txt
+ponha nesta pasta o aquivo de teste, base_teste.txt
